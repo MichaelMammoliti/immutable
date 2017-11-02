@@ -1,2 +1,2 @@
 # immutable
-A set of immutable utilities for Javascript.
+A set of utilities for Javascript to get immutable data.
